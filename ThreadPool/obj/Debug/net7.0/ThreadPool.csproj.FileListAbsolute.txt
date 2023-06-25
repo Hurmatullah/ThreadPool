@@ -1,0 +1,45 @@
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.exe
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.deps.json
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.runtimeconfig.json
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.dll
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.pdb
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.csproj.AssemblyReference.cache
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.AssemblyInfo.cs
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.dll
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\refint\ThreadPool.dll
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.pdb
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.genruntimeconfig.cache
+C:\Users\horma\source\repos\ThreadPool\ThreadPool\obj\Debug\net7.0\ref\ThreadPool.dll
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.exe
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.deps.json
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.runtimeconfig.json
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.dll
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.pdb
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.csproj.AssemblyReference.cache
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.AssemblyInfo.cs
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.dll
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\refint\ThreadPool.dll
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.pdb
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.genruntimeconfig.cache
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ref\ThreadPool.dll
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.exe
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.deps.json
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.runtimeconfig.json
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.dll
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\bin\Debug\net7.0\ThreadPool.pdb
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.csproj.AssemblyReference.cache
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.AssemblyInfo.cs
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.dll
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\refint\ThreadPool.dll
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.pdb
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ThreadPool.genruntimeconfig.cache
+C:\Users\horma\source\repos\Task3\ThreadPool\ThreadPool\obj\Debug\net7.0\ref\ThreadPool.dll
